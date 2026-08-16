@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0c0e14"/>
+  <rect width="1200" height="630" fill="url(#g)" opacity="0.6"/>
+  <defs>
+    <radialGradient id="g" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#376bff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0c0e14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <text x="80" y="290" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="72" font-weight="800" fill="#ffffff">Receptro</text>
+  <text x="82" y="345" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600" fill="#5b8eff">AI Automation Agency</text>
+  <text x="82" y="395" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="400" fill="#b0bac9">We set up your AI phone receptionist — never miss a call.</text>
+</svg>
